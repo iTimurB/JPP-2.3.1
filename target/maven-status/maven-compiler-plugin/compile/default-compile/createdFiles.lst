@@ -1,0 +1,9 @@
+spring_crud\config\MvcServletConnector.class
+spring_crud\config\HibernateConfig.class
+spring_crud\dao\UserDaoImpl.class
+spring_crud\service\UserService.class
+spring_crud\dao\UserDao.class
+spring_crud\controller\UserController.class
+spring_crud\service\UserServiceImpl.class
+spring_crud\model\User.class
+spring_crud\config\SpringConfig.class
